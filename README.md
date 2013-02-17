@@ -27,6 +27,7 @@ Bundle 'chakrit/vim-thai-keys'
 ```
 
 จากนั้นก็พิมพ์ `:BundleInstall` ใน VIM อีกทีแค่นี้ก็เรียบร้อยแล้วครับ
+
 And then do `:BundleInstall` and you're good to go : - )
 
 # SUPPORT / CONTRIBUTE
