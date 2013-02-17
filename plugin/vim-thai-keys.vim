@@ -6,7 +6,7 @@
 "                KEY MAPPINGS
 " :map \- ` " already mapped
 :map ๅ 1
-:map / 2
+" :map / 2 " already mapped
 :map _ 3
 :map ภ 4
 :map ถ 5
