@@ -1,15 +1,5 @@
-" assumes kedmanee key bindings, for now.
 
-" ___________________________
-"            COMMAND MAPPINGS
-:command ไ w
-:command ๆ q
-:command น o
-:command ำ e
-:command ิ b
-:command ื n
-:command ย p
-
+" Assumes kedmanee key bindings, for now.
 " Pull requests welcome for more mappings ; - )
 
 " ___________________________
