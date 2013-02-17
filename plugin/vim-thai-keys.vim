@@ -73,7 +73,7 @@
 :map ะ T
 :map ั Y
 :map ี U
-:map ร I
+:map ณ I
 :map ฯ O
 :map ญ P
 :map ฐ \{
