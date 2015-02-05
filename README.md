@@ -1,7 +1,7 @@
 
 # VIM-THAI-KEYS
 
-เคยมีปัญหานี้ไม่ครับ พิมพ์ๆ ภาษาไทยใน VIM อยู่ดีๆ แล้วกด ESC ออกมา command mode
+เคยมีปัญหานี้ไหมครับ พิมพ์ๆ ภาษาไทยใน VIM อยู่ดีๆ แล้วกด ESC ออกมา command mode
 แล้วใช้คำสั่งอะไรไม่ได้เลยเพราะว่าคีย์บอร์ดมันเป็นภาษาไทยอยู่ ต้องเปลี่ยนกลับเป็นภาษาอังกฤษก่อนถึงจะทำงานต่อได้?
 
 Ever got frustrated when you have to type in Thai while in VIM and found that all the
