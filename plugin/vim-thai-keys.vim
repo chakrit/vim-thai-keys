@@ -77,7 +77,7 @@
 :map ฯ O
 :map ญ P
 :map ฐ \{
-:map , \}
+":map , \}
 " :map ฅ | " no mapping found
 :map ฤ A
 :map ฆ S
