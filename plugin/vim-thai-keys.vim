@@ -68,11 +68,11 @@
 
 :map ๐ Q
 " :map \" W "key already mapped
-:map ำ E
-:map พ R
-:map ะ T
-:map ั Y
-:map ี U
+:map ฎ E
+:map ฑ R
+:map ธ T
+:map ํ Y
+:map ๊ U
 :map ณ I
 :map ฯ O
 :map ญ P
