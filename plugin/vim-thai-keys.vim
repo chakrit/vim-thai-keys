@@ -49,6 +49,7 @@
 :map ก d
 :map ด f
 :map เ g
+:map เเ gg
 :map ้ h
 :map ่ j
 :map า k
@@ -68,11 +69,11 @@
 
 :map ๐ Q
 " :map \" W "key already mapped
-:map ำ E
-:map พ R
-:map ะ T
-:map ั Y
-:map ี U
+:map ฎ E
+:map ฑ R
+:map ธ T
+:map ํ Y
+:map ๊ U
 :map ณ I
 :map ฯ O
 :map ญ P
