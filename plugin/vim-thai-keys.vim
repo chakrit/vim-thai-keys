@@ -49,6 +49,7 @@
 :map ก d
 :map ด f
 :map เ g
+:map เเ gg
 :map ้ h
 :map ่ j
 :map า k
