@@ -108,8 +108,9 @@
 :map ผะ zt
 :map ผิ zb
 
-" Window commands CTRL-W
+" Window commands ( CTRL-W )
 " For help, type :help ^w
-" Some commands can be invoked by holding Ctrl e.g. <c-w>v is the same as
-" <c-w><c-v> so including them here is unnecessary but is possible
+" Some commands can be invoked by holding Ctrl key extensively
+" e.g. <c-w>v is the same as <c-w><c-v>
+" so including them here is unnecessary but is possible
 :map <c-w>แ <c-w>c
