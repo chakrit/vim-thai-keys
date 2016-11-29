@@ -97,7 +97,7 @@
 :map ฮ V
 :map ฺ B
 :map ์ N
-" :map ? M " key already mapped
+:map ? M
 :map ฒ <
 :map ฬ >
 :map ฦ ?
