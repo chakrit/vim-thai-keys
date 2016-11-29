@@ -97,8 +97,13 @@
 :map ฮ V
 :map ฺ B
 :map ์ N
-" :map ? M " key already mapped
+:map ? M
 :map ฒ <
 :map ฬ >
 :map ฦ ?
 
+" Scrolling relative to cursor
+" For help, type :help scroll-cursor
+:map ผผ zz
+:map ผะ zt
+:map ผิ zb
