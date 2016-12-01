@@ -7,7 +7,7 @@
 " :map \- ` " already mapped
 :map ๅ 1
 " :map / 2 " already mapped
-:map _ 3
+" :map _ 3 " already mapped
 :map ภ 4
 :map ถ 5
 :map ุ 6
