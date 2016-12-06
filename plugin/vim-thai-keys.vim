@@ -2,12 +2,15 @@
 " Assumes kedmanee key bindings, for now.
 " Pull requests welcome for more mappings ; - )
 
+" keys that are already mapped are the keys that Vim use by default (because
+" they are available in English keyboard). So we shouldn't remap it to something
+" else without user's acknowledgement
 " ___________________________
 "                KEY MAPPINGS
 " :map \- ` " already mapped
 :map ๅ 1
 " :map / 2 " already mapped
-:map _ 3
+" :map _ 3 " already mapped
 :map ภ 4
 :map ถ 5
 :map ุ 6
